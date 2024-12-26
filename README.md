@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently 42 Berlin student.
+👋 Hi, I’m @ekey13
+
+👀 I’m a student at 42 Berlin
+
+📚 I’m currently learning C++
 
 
 # 💻 Tech Stack:
