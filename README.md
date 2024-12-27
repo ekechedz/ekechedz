@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ekey13
+👋 Hi, I’m @ekechedz
 
 👀 I’m a student at 42 Berlin
 
