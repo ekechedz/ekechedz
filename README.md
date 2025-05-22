@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @ekechedz
+👋 Hi, I’m Elmira Kechedzhi
 
 👀 I’m a student at 42 Berlin
 
-📚 I’m currently learning C
+📚 I’m currently learning C++
 
 
 # 💻 Tech Stack:
